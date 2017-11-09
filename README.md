@@ -1,6 +1,6 @@
-# No Connection? No Problem! Salesforce Side
+#No Connection? No Problem! Salesforce Side
 
-## Instructions
+##Instructions 
 
 1. Deploy the contents of this repository to your Salesforce instance
 
